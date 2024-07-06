@@ -5,3 +5,5 @@ Today we learn internet technologies module.
 Here is our first day content
 =================================
 1. Concepts of git
+2. Git command
+3. Description of git 

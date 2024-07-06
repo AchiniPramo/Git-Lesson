@@ -1,0 +1,7 @@
+Hello Guys!
+
+Today we learn internet technologies module.
+
+Here is our first day content
+=================================
+1. Concepts of git
